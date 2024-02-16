@@ -32,6 +32,11 @@ label {
 }
 button {
   margin-top: 20px;
+  color: beige;
+  background-color: #3c128a;
+  padding: 3px;
+  border-radius: 7px;
+  border: none;
 }
 input {
   border-radius: 7px;
