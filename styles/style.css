@@ -1,0 +1,39 @@
+body {
+  font-family: sans-serif;
+  margin: auto;
+  text-align: center;
+}
+h1 {
+  color: #3c128a;
+  width: 400px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: steelblue;
+  border-radius: 14px;
+  padding: 20px;
+}
+form {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  width: 400px;
+  margin: auto;
+  background-color: steelblue;
+  padding: 20px;
+  border-radius: 14px;
+}
+.label-nome {
+  color: black;
+  margin-top: 20px;
+}
+label {
+  text-align: center;
+  margin: auto;
+}
+button {
+  margin-top: 20px;
+}
+input {
+  border-radius: 7px;
+  padding: 3px;
+}
